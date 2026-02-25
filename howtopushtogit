@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit - Gmail Smart Triage Agent"
+git branch -M main
+git remote add origin https://github.com/yourusername/repo-name.git
+git push -u origin main
